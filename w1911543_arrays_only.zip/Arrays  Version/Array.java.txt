@@ -1,0 +1,7 @@
+CustomerName   occupied In Room : 
+null occupied In Room : 0
+null occupied In Room : 1
+null occupied In Room : 2
+null occupied In Room : 3
+null occupied In Room : 4
+null occupied In Room : 5
